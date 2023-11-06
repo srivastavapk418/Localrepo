@@ -1,1 +1,1 @@
-# JS
+print("hello")
